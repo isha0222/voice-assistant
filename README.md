@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=isha0222&repo=voice-assistant&color=blue)
+
 # 🎤 AI Voice Assistant - Your Personal Alexa
 ...
 Enjoy talking to your personal AI assistant! 🎤
