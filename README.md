@@ -1,6 +1,6 @@
 # 🎤 AI Voice Assistant - Your Personal Alexa
-
-An intelligent voice-activated AI assistant that responds to your voice commands just like Alexa or Siri. Built with React, Vite, and Tailwind CSS.
+...
+Enjoy talking to your personal AI assistant! 🎤
 
 ## ✨ Features
 
@@ -191,3 +191,13 @@ If you encounter any issues, please open an issue on GitHub with:
 **Made with ❤️ using React, Vite, and Tailwind CSS**
 
 Enjoy talking to your personal AI assistant! 🎤
+
+## 🌐 Live Demo
+
+Try the AI Voice Assistant here:
+
+https://voice-assistant-kappa-nine.vercel.app/
+
+## 📂 GitHub Repository
+
+https://github.com/isha0222/voice-assistant
